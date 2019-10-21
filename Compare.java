@@ -1,5 +1,5 @@
 /**
- * Compare
+ * Compare the results of a round of the game, return winner or a tie
  */
 public class Compare {
     public static int compare(int p1_m, int p2_m) {
@@ -19,7 +19,7 @@ public class Compare {
 
         }
 
-        return 0;
+        return -1;
     }
 
 }
