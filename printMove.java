@@ -1,5 +1,5 @@
 /**
- * printMove
+ * Helper function to print the moves made by each player
  */
 public class printMove {
 

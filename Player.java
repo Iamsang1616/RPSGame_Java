@@ -1,6 +1,6 @@
 
 /**
- * player
+ * Code for the human player
  */
 import java.util.Scanner;
 

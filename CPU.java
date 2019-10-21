@@ -1,6 +1,6 @@
 
 /**
- * cpu
+ * Code for the CPU player
  */
 
 import java.util.Random;

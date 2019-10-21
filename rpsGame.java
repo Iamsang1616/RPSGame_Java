@@ -1,6 +1,6 @@
 
 /**
- * rps
+ * Main function to handle RPS
  */
 
 import java.util.*;
